@@ -9,6 +9,16 @@ Description: In this project I was learning how to write comments in Python. Sin
 
 With a comment you are able to comment large pieces of code or explain what code does. It make it easy to understand and it is different from C#.
 
+In Python you can have Single-line and Multi-line comments. 
+
+Example of Muti-line comments:
+
+"#" multiplying two variables
+a=1
+b=2
+c=a*B
+print(c) # print result
+
 Constraints: None
 
 What I learnt: Since I am new to Python ever small and unique feature of Python I need to know. So I learnt how to write a comment. This will come in handy and I also improved my knowledge on the Python IDE.
