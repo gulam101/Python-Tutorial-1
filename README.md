@@ -19,6 +19,8 @@ b=2
 c=a*b
 print(c) # print result
 
+![IMG002](https://user-images.githubusercontent.com/45819118/71122123-c4b36d80-21d7-11ea-9d1f-571b5f4b5458.PNG)
+
 Constraints: None
 
 What I learnt: Since I am new to Python ever small and unique feature of Python I need to know. So I learnt how to write a comment. This will come in handy and I also improved my knowledge on the Python IDE.
