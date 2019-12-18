@@ -16,7 +16,7 @@ Example of Muti-line comments:
 "#" multiplying two variables
 a=1
 b=2
-c=a*B
+c=a*b
 print(c) # print result
 
 Constraints: None
