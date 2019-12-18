@@ -35,4 +35,4 @@ This code ddivides 2 numbers
 
 Constraints: None
 
-What I learnt: Since I am new to Python ever small and unique feature of Python I need to know. So I learnt how to write a comment. This will come in handy and I also improved my knowledge on the Python IDE.
+What I learnt: Since I am new to Python ever small and unique feature of Python I need to know. So I learnt how to write a comment. This will come in handy and I also improved my knowledge on the Python IDE. It also seems that I learnt.
