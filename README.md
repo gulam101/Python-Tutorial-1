@@ -37,7 +37,7 @@ This code divides 2 numbers
 
 ### Constraints: ### 
 
-None
+None.
 
 ### What I learnt: ###
 - How to use the Python IDE
@@ -45,4 +45,4 @@ None
 
 ### Improvements: ###
 
-None
+None.
