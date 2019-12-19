@@ -39,7 +39,7 @@ This code divides 2 numbers
 
 None
 
-## What I learnt: ##
+### What I learnt: ###
 
 Since I am new to Python ever small and unique feature of Python I need to know. So I learnt how to write a comment. This will come in handy and I also improved my knowledge on the Python IDE.
 
