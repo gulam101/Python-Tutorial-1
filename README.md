@@ -7,7 +7,7 @@ Description: In this project I was learning how to write comments in Python. Sin
 ![IMG001](https://user-images.githubusercontent.com/45819118/71121604-abf68800-21d6-11ea-8f19-d8dbb052546b.PNG)
 
 
-With a comment you can comment large pieces of code or explain what code does. It make it easy to understand and it is different from C#.
+With a comment you can remove some code without the compiler executing the code. Large pieces of code can also summarised by using comments. Comments simply explain what code does. It makes it easy to understand and it is different from C#.
 
 In Python you can have Single-line and Multi-line comments. 
 
