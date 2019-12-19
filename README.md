@@ -43,9 +43,6 @@ None
 - How to use the Python IDE
 - Better understanding single-line comments, multi-line comments and docstring
 
-
-Since I am new to Python ever small and unique feature of Python I need to know. So I learnt how to write a comment. This will come in handy and I also improved my knowledge on the Python IDE.
-
 ### Improvements: ###
 
 None
