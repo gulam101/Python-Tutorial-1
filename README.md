@@ -7,11 +7,11 @@ Description: In this project I was learning how to write comments in Python. Sin
 ![IMG001](https://user-images.githubusercontent.com/45819118/71121604-abf68800-21d6-11ea-8f19-d8dbb052546b.PNG)
 
 
-With a comment you are able to comment large pieces of code or explain what code does. It make it easy to understand and it is different from C#.
+With a comment you can comment large pieces of code or explain what code does. It make it easy to understand and it is different from C#.
 
 In Python you can have Single-line and Multi-line comments. 
 
-Example of Muti-line comments:
+Example of Multi-line comments:
 
 "#" multiplying two variables
 a=1
@@ -27,7 +27,7 @@ Example of how it works:
 
 """
 Using Docstring as a comment.
-This code ddivides 2 numbers
+This code divides 2 numbers
 """
 
 ![IMG003](https://user-images.githubusercontent.com/45819118/71123446-984d2080-21da-11ea-9b9c-d2905c67383f.PNG)
